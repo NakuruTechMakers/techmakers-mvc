@@ -6,7 +6,7 @@
     
     public function index(){
       $data = [
-        'title' => 'TraversyMVC',
+        'title' => 'TechmakersMVC',
       ];
      
       $this->view('pages/index', $data);
